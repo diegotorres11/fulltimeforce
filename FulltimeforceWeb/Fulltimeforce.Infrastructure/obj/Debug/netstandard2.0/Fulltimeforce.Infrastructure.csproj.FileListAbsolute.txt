@@ -1,0 +1,14 @@
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Infrastructure\bin\Debug\netstandard2.0\Fulltimeforce.Infrastructure.deps.json
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Infrastructure\bin\Debug\netstandard2.0\Fulltimeforce.Infrastructure.dll
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Infrastructure\bin\Debug\netstandard2.0\Fulltimeforce.Infrastructure.pdb
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Infrastructure\bin\Debug\netstandard2.0\Fulltimeforce.Core.dll
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Infrastructure\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Infrastructure\bin\Debug\netstandard2.0\Fulltimeforce.Core.pdb
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Infrastructure\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Infrastructure\obj\Debug\netstandard2.0\Fulltimeforce.Infrastructure.csprojAssemblyReference.cache
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Infrastructure\obj\Debug\netstandard2.0\Fulltimeforce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Infrastructure\obj\Debug\netstandard2.0\Fulltimeforce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Infrastructure\obj\Debug\netstandard2.0\Fulltimeforce.Infrastructure.AssemblyInfo.cs
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Infrastructure\obj\Debug\netstandard2.0\Fulltimeforce.Infrastructure.csproj.CopyComplete
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Infrastructure\obj\Debug\netstandard2.0\Fulltimeforce.Infrastructure.dll
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Infrastructure\obj\Debug\netstandard2.0\Fulltimeforce.Infrastructure.pdb

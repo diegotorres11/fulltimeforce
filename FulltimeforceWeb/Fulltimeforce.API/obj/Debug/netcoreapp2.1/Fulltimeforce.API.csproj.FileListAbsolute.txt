@@ -1,0 +1,17 @@
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\bin\Debug\netcoreapp2.1\Fulltimeforce.Core.dll
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\obj\Debug\netcoreapp2.1\Fulltimeforce.API.csprojAssemblyReference.cache
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\obj\Debug\netcoreapp2.1\Fulltimeforce.API.csproj.CoreCompileInputs.cache
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\obj\Debug\netcoreapp2.1\Fulltimeforce.API.RazorAssemblyInfo.cache
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\obj\Debug\netcoreapp2.1\Fulltimeforce.API.RazorAssemblyInfo.cs
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\obj\Debug\netcoreapp2.1\Fulltimeforce.API.AssemblyInfoInputs.cache
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\obj\Debug\netcoreapp2.1\Fulltimeforce.API.AssemblyInfo.cs
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\obj\Debug\netcoreapp2.1\Fulltimeforce.API.RazorTargetAssemblyInfo.cache
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\bin\Debug\netcoreapp2.1\Fulltimeforce.API.deps.json
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\bin\Debug\netcoreapp2.1\Fulltimeforce.API.runtimeconfig.json
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\bin\Debug\netcoreapp2.1\Fulltimeforce.API.runtimeconfig.dev.json
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\bin\Debug\netcoreapp2.1\Fulltimeforce.API.dll
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\bin\Debug\netcoreapp2.1\Fulltimeforce.API.pdb
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\bin\Debug\netcoreapp2.1\Fulltimeforce.Core.pdb
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\obj\Debug\netcoreapp2.1\Fulltimeforce.API.csproj.CopyComplete
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\obj\Debug\netcoreapp2.1\Fulltimeforce.API.dll
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.API\obj\Debug\netcoreapp2.1\Fulltimeforce.API.pdb

@@ -1,0 +1,6 @@
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Core\bin\Debug\Fulltimeforce.Core.dll
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Core\bin\Debug\Fulltimeforce.Core.pdb
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Core\obj\Debug\Fulltimeforce.Core.csprojAssemblyReference.cache
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Core\obj\Debug\Fulltimeforce.Core.csproj.CoreCompileInputs.cache
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Core\obj\Debug\Fulltimeforce.Core.dll
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Core\obj\Debug\Fulltimeforce.Core.pdb

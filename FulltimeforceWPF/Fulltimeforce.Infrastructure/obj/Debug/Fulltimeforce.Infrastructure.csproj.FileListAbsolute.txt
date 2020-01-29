@@ -1,0 +1,14 @@
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Infrastructure\bin\Debug\Fulltimeforce.Infrastructure.dll.config
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Infrastructure\bin\Debug\Fulltimeforce.Infrastructure.dll
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Infrastructure\bin\Debug\Fulltimeforce.Infrastructure.pdb
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Infrastructure\bin\Debug\Fulltimeforce.Core.dll
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Infrastructure\bin\Debug\Fulltimeforce.Core.pdb
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Infrastructure\obj\Debug\Fulltimeforce.Infrastructure.csprojAssemblyReference.cache
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Infrastructure\obj\Debug\Fulltimeforce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Infrastructure\obj\Debug\Fulltimeforce.Infrastructure.csproj.CopyComplete
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Infrastructure\obj\Debug\Fulltimeforce.Infrastructure.dll
+C:\Users\usu\Source\Repos\Fulltimeforce\Fulltimeforce.Infrastructure\obj\Debug\Fulltimeforce.Infrastructure.pdb

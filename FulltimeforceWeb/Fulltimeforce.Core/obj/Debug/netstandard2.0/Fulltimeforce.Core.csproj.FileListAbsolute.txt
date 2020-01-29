@@ -1,0 +1,9 @@
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Core\bin\Debug\netstandard2.0\Fulltimeforce.Core.deps.json
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Core\bin\Debug\netstandard2.0\Fulltimeforce.Core.dll
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Core\bin\Debug\netstandard2.0\Fulltimeforce.Core.pdb
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Core\obj\Debug\netstandard2.0\Fulltimeforce.Core.csprojAssemblyReference.cache
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Core\obj\Debug\netstandard2.0\Fulltimeforce.Core.csproj.CoreCompileInputs.cache
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Core\obj\Debug\netstandard2.0\Fulltimeforce.Core.AssemblyInfoInputs.cache
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Core\obj\Debug\netstandard2.0\Fulltimeforce.Core.AssemblyInfo.cs
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Core\obj\Debug\netstandard2.0\Fulltimeforce.Core.dll
+C:\Users\usu\Source\Repos\FulltimeforceWeb\Fulltimeforce.Core\obj\Debug\netstandard2.0\Fulltimeforce.Core.pdb
